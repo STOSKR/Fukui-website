@@ -42,7 +42,7 @@ params:
 
   label:
     text: "Chanin Nantasenamat"
-    icon: "images/coding.png"
+    icon: "images/flecha.png"
     iconHeight: 35
 
   # profile-mode
