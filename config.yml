@@ -41,20 +41,19 @@ params:
   tocopen: false
 
   label:
-    text: "Chanin Nantasenamat"
+    text: "Restaurante Fukui"
     icon: "images/flecha.png"
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Welcome! \U0001F44B"
-    subtitle: "This is the website of **Chanin Nantasenamat, Ph.D.** and
-    I create educational content on data science and bioinformatics.
-    Some of you may know me as the **Data Professor**."
-    imageUrl: "images/dp.png"
-    imageWidth: 120
-    imageHeight: 120
+    title: "¡Bienvenidos a nuestra web!"
+    subtitle: "Esto es una web creado con el fin de dar a conocer nuestro restaurante. 
+    Se mostrará tanto los precios de los platos, como el de los menús o de algunos eventos especiales que organizamos como el del año nuevo"
+    imageUrl: "images/logo.jpeg"
+    imageWidth: 300
+    imageHeight: 300
     imageTitle: "Data Professor"
     buttons:
       - name: Blogs
